@@ -1,8 +1,10 @@
+#include <stdio.h>
 #include <unistd.h>
+
 /**
- * maim -Entry point
+ * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: Always 1 (success)
  */
 int main(void)
 {
